@@ -34,10 +34,10 @@ Features
 
 Screenshots
 --------------------------
-![Main Menu](/screenshots/screen1.png)
-![Instructions](/screenshots/screen2.png)
-![Options](/screenshots/screen3.png)
-![Database](/screenshots/screen4.png)
-![Gameplay 1](/screenshots/screen5.png)
-![Gameplay 2](/screenshots/screen6.png)
-![Game Over](/screenshots/screen7.png)
+![Main Menu](/Screenshots/screen1.png)
+![Instructions](/Screenshots/screen2.png)
+![Options](/Screenshots/screen3.png)
+![Database](/Screenshots/screen4.png)
+![Gameplay 1](/Screenshots/screen5.png)
+![Gameplay 2](/Screenshots/screen6.png)
+![Game Over](/Screenshots/screen7.png)
