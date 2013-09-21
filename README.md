@@ -31,3 +31,13 @@ Features
 - fun sound effects when fruits enter and leave the screen
 - Colored splashes against background matching inside of fruit
 - Randomly generated entrance locations and speeds for each fruit following an arc path
+
+Screenshots
+--------------------------
+![Main Menu](/screenshots/screen1.png)
+![Instructions](/screenshots/screen2.png)
+![Options](/screenshots/screen3.png)
+![Database](/screenshots/screen4.png)
+![Gameplay 1](/screenshots/screen5.png)
+![Gameplay 2](/screenshots/screen6.png)
+![Game Over](/screenshots/screen7.png)
