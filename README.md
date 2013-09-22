@@ -21,6 +21,8 @@ The game has file IO for saving scores, background,
 the selected blade and selected music. As well as options,
 our game has a small database with one funny comic each for the fruit/veggies.
 
+Source for fruit images: FruityCuties, http://www.fruitycuties.com
+
 Features
 --------------------------
 - Very user-friendly design with slashable icons to navigate menus
