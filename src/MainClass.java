@@ -548,7 +548,8 @@ public class MainClass extends Applet implements MouseListener, Runnable,MouseMo
 							shownFruit[i]= new Fruit (defaultFruit[fruitToAdd].getFruitColour(),
 									fruitX, Y, fruitHor, fruitVer, defaultFruit[fruitToAdd].getPicture());
 							currentHey =  generator.nextInt(NUMBER_OF_HEY);
-							hey[currentHey].play();
+							if (generator.nextInt(5) == 1)
+								hey[currentHey].play();
 
 						}
 						else
