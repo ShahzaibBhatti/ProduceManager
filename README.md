@@ -5,6 +5,8 @@
 ###Project Length: One Month###
 ###December 2010###
 
+For a better gaming experience, install the included font
+
 A game based around getting points by slashing fruit.
 Produce Manager is a game based on the famous iPhone based game Fruit Ninja.
 The aim of the game is to get as many points as possible by slashing fruit.
