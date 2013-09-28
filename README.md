@@ -7,21 +7,20 @@
 
 For a better gaming experience, install the included font
 
-A game based around getting points by slashing fruit.
 Produce Manager is a game based on the famous iPhone based game Fruit Ninja.
 The aim of the game is to get as many points as possible by slashing fruit.
 Along with slashing fruit, one has to avoid letting three fruit drop,
 or slashing a bad apple which both end the game.
 They can also get more point by slicing fruit fast,
-which will get them combo points. Outside of combos,
+which will get them a combo bonus. Outside of combos,
 for every one fruit sliced, one point is gained.
 And based upon your combo you can get up to 1, 2 or 3 addition points
 for a combo of 3, 4 and 5 respectively. Along with the game,
-the player has the option the pick between a red green or white blade color.
+players have the option to pick between a red, green or white blade color.
 They can also pick a background and a song to play the game to.
 The game has file IO for saving scores, background,
-the selected blade and selected music. As well as options,
-our game has a small database with one funny comic each for the fruit/veggies.
+the selected blade and selected music. Included in the game
+is a small database with one funny comic for each of the fruit/veggies.
 
 Source for fruit images: FruityCuties, http://www.fruitycuties.com
 
