@@ -1,7 +1,6 @@
 #Produce Manager#
 
-###Lead Developer: Shahzaib Bhatti###
-###Lead Designer: Saad Asif###
+###By: Shahzaib Bhatti and Saad Asif###
 ###Project Length: One Month###
 ###December 2010###
 
