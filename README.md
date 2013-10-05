@@ -1,7 +1,6 @@
 #Produce Manager#
 
 ###By: Shahzaib Bhatti and Saad Asif###
-###Project Length: One Month###
 ###December 2010###
 
 For a better gaming experience, install the included font
